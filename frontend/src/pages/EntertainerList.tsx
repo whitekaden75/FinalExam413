@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Entertainer } from "../data/EntertainerType";
 import { fetchEntertainers } from "../api/Entertainers.API";
